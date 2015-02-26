@@ -49,4 +49,6 @@ a:hover { color:#333333; -webkit-transition: all 0.2s ease-in; -moz-transition: 
 .post li:hover { border-bottom:1px solid #333333; }
 .post blockquote { font-size: 17px; font-weight: 700;}
 
-.copyright { margin-bottom: 0px; width: 100%; background-color: #000; position: absolute; color: #fff; padding: 60px;} 
+#fade { display: none; background: #000; position: fixed; left: 0;  top: 0; width: 100%; height: 100%;  opacity: .20; z-index: 9999; }
+.popup_block{ display: none; background: #FFFFFF; padding: 55px; float: left; height: 50%; color: #313131; position: fixed; top: 50%;  overflow-y: auto; overflow-x: no scroll; left: 50%; z-index: 99999; }
+img.btn_close { float: right; margin: -55px -55px 0 0; opacity: 0; }
