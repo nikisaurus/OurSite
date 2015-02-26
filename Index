@@ -122,7 +122,34 @@ $('a.close, #fade').live('click', function() { //When clicking on the close or f
     <div id="TES" class="popup_block">
 
 // popup table with links for class.
-        
-</div>
+    <div id= "table">
+        <center>
+        <div class= "compsci">
+        <center>
+        <table>
+            <tr>Advanced Placement Computer Science A</tr>
+            <tr>Projects in Computer Science I & II</tr>
+        </table>
+        </center>
+    </div>
+    <div id= "table">
+        <center>
+        <div class= "math">
+        <center>
+        <table>
+            <tr>Algebra I</tr>
+            <tr>Honors Algebra I</tr>
+            <tr>Algebra II/Trigonometry</tr>
+            <tr>Honors Algebra II/Trignometry</tr>
+            <tr>Geometry</tr>
+            <tr>Honors Geometry</tr>
+            <tr>Honors Precalculus</tr>
+            <tr>Math Analysis/Introduction to Calculus</tr>
+            <tr>Advanced Placement Calculus AB</tr>
+            <tr>Advanced Placement Calculus BC</tr>
+            <tr>Advanced Placement Statistics</tr>
+        </table>
+        </center>
+    </div>
 
 </body>
