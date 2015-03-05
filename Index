@@ -126,9 +126,9 @@ $('a.close, #fade').live('click', function() { //When clicking on the close or f
     <div id= "classes">
         <center>
         <table>
-            <tr class= "classtitle">Computer Science</tr>
-            <tr>Advanced Placement Computer Science A</tr>
-            <tr>Projects in Computer Science I & II</tr>
+            <tr class= "subject">Computer Science</tr>
+            <tr class= "classtitle">Advanced Placement Computer Science A</tr>
+            <tr class = "classtitle">Projects in Computer Science I & II</tr>
         </table>
         </center>
     </div>
@@ -137,18 +137,89 @@ $('a.close, #fade').live('click', function() { //When clicking on the close or f
     <div id= "classes">
         <center>
         <table>
-            <tr class = "classtitle">Mathematics</tr>
-            <tr>Algebra I</tr>
-            <tr>Honors Algebra I</tr>
-            <tr>Algebra II/Trigonometry</tr>
-            <tr>Honors Algebra II/Trignometry</tr>
-            <tr>Geometry</tr>
-            <tr>Honors Geometry</tr>
-            <tr>Honors Precalculus</tr>
-            <tr>Math Analysis/Introduction to Calculus</tr>
-            <tr>Advanced Placement Calculus AB</tr>
-            <tr>Advanced Placement Calculus BC</tr>
-            <tr>Advanced Placement Statistics</tr>
+            <tr class = "subject">Mathematics</tr>
+            <tr class = "classtitle">Algebra I</tr>
+            <tr class = "classtitle">Honors Algebra I</tr>
+            <tr class = "classtitle">Algebra II/Trigonometry</tr>
+            <tr class = "classtitle">Honors Algebra II/Trignometry</tr>
+            <tr class = "classtitle">Geometry</tr>
+            <tr class = "classtitle">Honors Geometry</tr>
+            <tr class = "classtitle">Honors Precalculus</tr>
+            <tr class = "classtitle">Math Analysis/Introduction to Calculus</tr>
+            <tr class = "classtitle">Advanced Placement Calculus AB</tr>
+            <tr class = "classtitle">Advanced Placement Calculus BC</tr>
+            <tr class = "classtitle">Advanced Placement Statistics</tr>
+        </table>
+        </center>
+    </div>
+    </center>
+    <center>
+    <div id= "classes">
+        <center>
+        <table>
+            <tr class = "subject">English</tr>
+            <tr class = "classtitle">College Prep English 9</tr>
+            <tr class = "classtitle">Honors English 9</tr>
+            <tr class = "classtitle">College Prep English 10</tr>
+            <tr class = "classtitle">Honors English 10</tr>
+            <tr class = "classtitle">College Prep English 11</tr>
+            <tr class = "classtitle">Honors English 11</tr>
+            <tr class = "classtitle">English 12: American Literature</tr>
+            <tr class = "classtitle">Advanced Placement English Literature 12: American Literature</tr>
+            <tr class = "subject">English Electives</tr>
+            <tr class = "classtitle">American Folklore</tr>
+            <tr class = "classtitle">Creative Writing</tr>
+            <tr class = "classtitle">Linguistics</tr>
+            <tr class = "classtitle">Yearbook</tr>
+        </table>
+        </center>
+    </div>
+    </center>
+    <center>
+    <div id= "classes">
+        <center>
+        <table>
+            <tr class = "subject">Theater and Film</tr>
+            <tr class = "classtitle">Acting I</tr>
+            <tr class = "classtitle">Acting II</tr>
+            <tr class = "classtitle">Media Studies I: Film</tr>
+            <tr class = "classtitle">Media Studies II: Video Production</tr>
+            <tr class = "classtitle">Theatre Production: New Works Festival</tr>
+        </table>
+        </center>
+    </div>
+    </center>
+    <center>
+    <div id= "classes">
+        <center>
+        <table>
+            <tr class = "subject">Music</tr>
+            <tr class = "classtitle">Chamber Ensemble</tr>
+            <tr class = "classtitle">Concert Choir</tr>
+            <tr class = "classtitle">Advanced Concert Choir</tr>
+            <tr class = "classtitle">Jazz Band</tr>
+            <tr class = "classtitle">Music Production</tr>
+            <tr class = "classtitle">Advanced Placement Music Theory</tr>
+            <tr class = "classtitle">Orchestra</tr>
+            <tr class = "classtitle">Private Music Lessons</tr>
+            <tr class = "classtitle">Small Instrument Ensembles</tr>
+            <tr class = "classtitle">Vocal Ensemble</tr>
+        </table>
+        </center>
+    </div>
+    </center>
+    <center>
+    <div id= "classes">
+        <center>
+        <table>
+            <tr class = "subject">Visual Arts</tr>
+            <tr class = "classtitle">Advanced Placement Art History</tr>
+            <tr class = "classtitle">Advanced Placement Studio Art</tr>
+            <tr class = "classtitle">Art 2-D: Drawing and Painting</tr>
+            <tr class = "classtitle">Digital Photography</tr>
+            <tr class = "classtitle">Graphic Design</tr>
+            <tr class = "classtitle">Pottery</tr>
+            <tr class = "classtitle">Pottery Assistant</tr>
         </table>
         </center>
     </div>
