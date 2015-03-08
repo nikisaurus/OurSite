@@ -133,26 +133,7 @@ $('a.close, #fade').live('click', function() { //When clicking on the close or f
         </center>
     </div>
     </center>
-    <center>
-    <div id= "classes">
-        <center>
-        <table>
-            <tr class = "subject">Mathematics</tr>
-            <tr class = "classtitle">Algebra I</tr>
-            <tr class = "classtitle">Honors Algebra I</tr>
-            <tr class = "classtitle">Algebra II/Trigonometry</tr>
-            <tr class = "classtitle">Honors Algebra II/Trignometry</tr>
-            <tr class = "classtitle">Geometry</tr>
-            <tr class = "classtitle">Honors Geometry</tr>
-            <tr class = "classtitle">Honors Precalculus</tr>
-            <tr class = "classtitle">Math Analysis/Introduction to Calculus</tr>
-            <tr class = "classtitle">Advanced Placement Calculus AB</tr>
-            <tr class = "classtitle">Advanced Placement Calculus BC</tr>
-            <tr class = "classtitle">Advanced Placement Statistics</tr>
-        </table>
-        </center>
-    </div>
-    </center>
+ 
     <center>
     <div id= "classes">
         <center>
@@ -175,11 +156,12 @@ $('a.close, #fade').live('click', function() { //When clicking on the close or f
         </center>
     </div>
     </center>
+
     <center>
     <div id= "classes">
         <center>
         <table>
-            <tr class = "subject">Theater and Film</tr>
+            <tr class = "subject">Theatre and Film</tr>
             <tr class = "classtitle">Acting I</tr>
             <tr class = "classtitle">Acting II</tr>
             <tr class = "classtitle">Media Studies I: Film</tr>
@@ -189,6 +171,7 @@ $('a.close, #fade').live('click', function() { //When clicking on the close or f
         </center>
     </div>
     </center>
+
     <center>
     <div id= "classes">
         <center>
@@ -208,6 +191,7 @@ $('a.close, #fade').live('click', function() { //When clicking on the close or f
         </center>
     </div>
     </center>
+
     <center>
     <div id= "classes">
         <center>
@@ -225,4 +209,133 @@ $('a.close, #fade').live('click', function() { //When clicking on the close or f
     </div>
     </center>
 
+<center>
+    <div id= "classes">
+        <center>
+        <table>
+            <tr class = "subject">Health and Physical Education</tr>
+            <tr class = "classtitle">Health</tr>
+            <tr class = "classtitle">Physical Education</tr>
+            <tr class = "classtitle">Recreational Leader</tr>
+        </table>
+        </center>
+    </div>
+    </center>
+
+<center>
+    <div id= "classes">
+        <center>
+        <table>
+            <tr class = "subject">International Language</tr>
+            <tr class = "classtitle">French I</tr>
+            <tr class = "classtitle">French II</tr>
+            <tr class = "classtitle">French III</tr>
+            <tr class = "classtitle">Advanced Placement French Language</tr>
+            <tr class = "classtitle">Spanish I</tr>
+            <tr class = "classtitle">Spanish II</tr>
+            <tr class = "classtitle">Spanish III</tr>
+            <tr class = "classtitle">Advanced Placement Spanish Language</tr>
+            <tr class = "classtitle">International Language Assistant</tr>
+        </table>
+        </center>
+    </div>
+    </center>
+
+<center>
+    <div id= "classes">
+        <center>
+        <table>
+            <tr class = "subject">Mathematics</tr>
+            <tr class = "classtitle">Algebra I</tr>
+            <tr class = "classtitle">Honors Algebra I</tr>
+            <tr class = "classtitle">Algebra II/Trigonometry</tr>
+            <tr class = "classtitle">Honors Algebra II/Trigonometry</tr>
+            <tr class = "classtitle">Geometry</tr>
+            <tr class = "classtitle">Honors Geometry</tr>
+            <tr class = "classtitle">Honors Precalculus</tr>
+            <tr class = "classtitle">Math Analysis/Introduction to Calculus</tr>
+            <tr class = "classtitle">Advanced Placement Calculus AB</tr>
+            <tr class = "classtitle">Advanced Placement Calculus BC</tr>
+            <tr class = "subject">Mathematics Electives</tr>
+            <tr class = "classtitle">Advanced Placement Statistics</tr>
+        </table>
+        </center>
+    </div>
+    </center>
+
+<center>
+    <div id= "classes">
+        <center>
+        <table>
+            <tr class = "subject">Religion</tr>
+            <tr class = "classtitle">World Cultures</tr>
+            <tr class = "classtitle">Scripture Literature</tr>
+            <tr class = "classtitle">Morality and Service</tr>
+            <tr class = "classtitle">Contemporary Problems</tr>
+        </table>
+        </center>
+    </div>
+    </center>
+
+<center>
+    <div id= "classes">
+        <center>
+        <table>
+            <tr class = "subject">Science</tr>
+            <tr class = "classtitle">Astronomy</tr>
+            <tr class = "classtitle">Biology</tr>
+            <tr class = "classtitle">Advanced Placement Biology</tr>
+            <tr class = "classtitle">Chemistry</tr>
+            <tr class = "classtitle">Honors Chemistry</tr>
+            <tr class = "classtitle">Advanced Placement Environmental Science</tr>
+            <tr class = "classtitle">Physics</tr>
+            <tr class = "classtitle">Advanced Placement Physics B</tr>
+        </table>
+        </center>
+    </div>
+    </center>
+
+<center>
+    <div id= "classes">
+        <center>
+        <table>
+            <tr class = "subject">Social Studies</tr>
+            <tr class = "classtitle">Entrepreneurial Studies</tr>
+            <tr class = "classtitle">Law and Society</tr>
+            <tr class = "classtitle">Psychology</tr>
+            <tr class = "classtitle">Advanced Placement Psychology</tr>
+            <tr class = "classtitle">United States History and Government</tr>
+            <tr class = "classtitle">Advanced Placement United States History</tr>
+            <tr class = "classtitle">World History and Geography</tr>
+            <tr class = "classtitle">Advanced Placement World History</tr>
+        </table>
+        </center>
+    </div>
+    </center>
+
+<center>
+    <div id= "classes">
+        <center>
+        <table>
+            <tr class = "subject">Student Leadership</tr>
+            <tr class = "classtitle">Peer Mentoring</tr>
+            <tr class = "classtitle">Associated Student Body Officers</tr>
+            <tr class = "classtitle">Campus Ministry Team Officers</tr>
+            <tr class = "classtitle">Sport and Spirit Officers</tr>
+        </table>
+        </center>
+    </div>
+    </center>
+
+<center>
+    <div id= "classes">
+        <center>
+        <table>
+            <tr class = "subject">Academic/Life Skills</tr>
+            <tr class = "classtitle">Preparation Course for College Entrance Tests</tr>
+            <tr class = "classtitle">Traffic Education</tr>
+        </table>
+        </center>
+    </div>
+    </center>
 </body>
