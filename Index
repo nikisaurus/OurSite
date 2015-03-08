@@ -126,9 +126,9 @@ $('a.close, #fade').live('click', function() { //When clicking on the close or f
     <div>
         <center>
         <table>
-            <tr><td class= "subject">Computer Science</tr>
-            <tr><td class= "classtitle">Advanced Placement Computer Science A</tr>
-           <tr> <td class = "classtitle">Projects in Computer Science I & II</tr>
+            <tr><td class= "subject">Computer Science</td></tr>
+            <tr><td class= "classtitle">Advanced Placement Computer Science A</td></tr>
+           <tr> <td class = "classtitle">Projects in Computer Science I & II</td></tr>
         </table>
         </center>
     </div>
@@ -138,20 +138,20 @@ $('a.close, #fade').live('click', function() { //When clicking on the close or f
     <div id>
         <center>
         <table>
-            <tr><td class = "subject">English</tr>
-            <tr><td class = "classtitle">College Prep English 9</tr>
-            <tr><td class = "classtitle">Honors English 9</tr>
-            <tr><td class = "classtitle">College Prep English 10</tr>
-            <tr><td class = "classtitle">Honors English 10</tr>
-            <tr><td class = "classtitle">College Prep English 11</tr>
-            <tr><td class = "classtitle">Honors English 11</tr>
-            <tr><td class = "classtitle">English 12: American Literature</tr>
-            <tr><td class = "classtitle">Advanced Placement English Literature 12: American Literature</tr>
-            <tr><td class = "subject">English Electives</tr>
-            <tr><td class = "classtitle">American Folklore</tr>
-            <tr><td class = "classtitle">Creative Writing</tr>
-            <tr><td class = "classtitle">Linguistics</tr>
-            <tr><td class = "classtitle">Yearbook</tr>
+            <tr><td class = "subject">English</td></tr>
+            <tr><td class = "classtitle">College Prep English 9</td></tr>
+            <tr><td class = "classtitle">Honors English 9</td></tr>
+            <tr><td class = "classtitle">College Prep English 10</td></tr>
+            <tr><td class = "classtitle">Honors English 10</td></tr>
+            <tr><td class = "classtitle">College Prep English 11</td></tr>
+            <tr><td class = "classtitle">Honors English 11</td></tr>
+            <tr><td class = "classtitle">English 12: American Literature</td></tr>
+            <tr><td class = "classtitle">Advanced Placement English Literature 12: American Literature</td></tr>
+            <tr><td class = "subject">English Electives</td></tr>
+            <tr><td class = "classtitle">American Folklore</td></tr>
+            <tr><td class = "classtitle">Creative Writing</td></tr>
+            <tr><td class = "classtitle">Linguistics</td></tr>
+            <tr><td class = "classtitle">Yearbook</td></tr>
         </table>
         </center>
     </div>
@@ -161,12 +161,12 @@ $('a.close, #fade').live('click', function() { //When clicking on the close or f
     <div>
         <center>
         <table>
-            <tr><td class = "subject">Theatre and Film</tr>
-            <tr><td class = "classtitle">Acting I</tr>
-            <tr><td class = "classtitle">Acting II</tr>
-            <tr><td class = "classtitle">Media Studies I: Film</tr>
-            <tr><td class = "classtitle">Media Studies II: Video Production</tr>
-            <tr><td class = "classtitle">Theatre Production: New Works Festival</tr>
+            <tr><td class = "subject">Theatre and Film</td></tr>
+            <tr><td class = "classtitle">Acting I</td></tr>
+            <tr><td class = "classtitle">Acting II</td></tr>
+            <tr><td class = "classtitle">Media Studies I: Film</td></tr>
+            <tr><td class = "classtitle">Media Studies II: Video Production</td></tr>
+            <tr><td class = "classtitle">Theatre Production: New Works Festival</td></tr>
         </table>
         </center>
     </div>
@@ -176,17 +176,17 @@ $('a.close, #fade').live('click', function() { //When clicking on the close or f
     <div>
         <center>
         <table>
-            <tr><td class = "subject">Music</tr>
-            <tr><td class = "classtitle">Chamber Ensemble</tr>
-            <tr><td class = "classtitle">Concert Choir</tr>
-            <tr><td class = "classtitle">Advanced Concert Choir</tr>
-            <tr><td class = "classtitle">Jazz Band</tr>
-            <tr><td class = "classtitle">Music Production</tr>
-            <tr><td class = "classtitle">Advanced Placement Music Theory</tr>
-            <tr><td class = "classtitle">Orchestra</tr>
-            <tr><td class = "classtitle">Private Music Lessons</tr>
-            <tr><td class = "classtitle">Small Instrument Ensembles</tr>
-            <tr><td class = "classtitle">Vocal Ensemble</tr>
+            <tr><td class = "subject">Music</td></tr>
+            <tr><td class = "classtitle">Chamber Ensemble</td></tr>
+            <tr><td class = "classtitle">Concert Choir</td></tr>
+            <tr><td class = "classtitle">Advanced Concert Choir</td></tr>
+            <tr><td class = "classtitle">Jazz Band</td></tr>
+            <tr><td class = "classtitle">Music Production</td></tr>
+            <tr><td class = "classtitle">Advanced Placement Music Theory</td></tr>
+            <tr><td class = "classtitle">Orchestra</td></tr>
+            <tr><td class = "classtitle">Private Music Lessons</td></tr>
+            <tr><td class = "classtitle">Small Instrument Ensembles</td></tr>
+            <tr><td class = "classtitle">Vocal Ensemble</td></tr>
         </table>
         </center>
     </div>
@@ -196,14 +196,14 @@ $('a.close, #fade').live('click', function() { //When clicking on the close or f
     <div>
         <center>
         <table>
-            <tr><td class = "subject">Visual Arts</tr>
-            <tr><td class = "classtitle">Advanced Placement Art History</tr>
-            <tr><td class = "classtitle">Advanced Placement Studio Art</tr>
-            <tr><td class = "classtitle">Art 2-D: Drawing and Painting</tr>
-            <tr><td class = "classtitle">Digital Photography</tr>
-            <tr><td class = "classtitle">Graphic Design</tr>
-            <tr><td class = "classtitle">Pottery</tr>
-            <tr><td class = "classtitle">Pottery Assistant</tr>
+            <tr><td class = "subject">Visual Arts</td></tr>
+            <tr><td class = "classtitle">Advanced Placement Art History</td></tr>
+            <tr><td class = "classtitle">Advanced Placement Studio Art</td></tr>
+            <tr><td class = "classtitle">Art 2-D: Drawing and Painting</td></tr>
+            <tr><td class = "classtitle">Digital Photography</td></tr>
+            <tr><td class = "classtitle">Graphic Design</td></tr>
+            <tr><td class = "classtitle">Pottery</td></tr>
+            <tr><td class = "classtitle">Pottery Assistant</td></tr>
         </table>
         </center>
     </div>
@@ -213,10 +213,10 @@ $('a.close, #fade').live('click', function() { //When clicking on the close or f
     <div id>
         <center>
         <table>
-            <tr><td class = "subject">Health and Physical Education</tr>
-            <tr><td class = "classtitle">Health</tr>
-            <tr><td class = "classtitle">Physical Education</tr>
-            <tr><td class = "classtitle">Recreational Leader</tr>
+            <tr><td class = "subject">Health and Physical Education</td></tr>
+            <tr><td class = "classtitle">Health</td></tr>
+            <tr><td class = "classtitle">Physical Education</td></tr>
+            <tr><td class = "classtitle">Recreational Leader</td></tr>
         </table>
         </center>
     </div>
@@ -226,16 +226,16 @@ $('a.close, #fade').live('click', function() { //When clicking on the close or f
     <div>
         <center>
         <table>
-            <tr><td class = "subject">International Language</tr>
-            <tr><td class = "classtitle">French I</tr>
-            <tr><td class = "classtitle">French II</tr>
-            <tr><td class = "classtitle">French III</tr>
-            <tr><td class = "classtitle">Advanced Placement French Language</tr>
-            <tr><td class = "classtitle">Spanish I</tr>
-            <tr><td class = "classtitle">Spanish II</tr>
-            <tr><td class = "classtitle">Spanish III</tr>
-            <tr><td class = "classtitle">Advanced Placement Spanish Language</tr>
-            <tr><td class = "classtitle">International Language Assistant</tr>
+            <tr><td class = "subject">International Language</td></tr>
+            <tr><td class = "classtitle">French I</td></tr>
+            <tr><td class = "classtitle">French II</td></tr>
+            <tr><td class = "classtitle">French III</td></tr>
+            <tr><td class = "classtitle">Advanced Placement French Language</td></tr>
+            <tr><td class = "classtitle">Spanish I</td></tr>
+            <tr><td class = "classtitle">Spanish II</td></tr>
+            <tr><td class = "classtitle">Spanish III</td></tr>
+            <tr><td class = "classtitle">Advanced Placement Spanish Language</td></tr>
+            <tr><td class = "classtitle">International Language Assistant</td></tr>
         </table>
         </center>
     </div>
@@ -245,19 +245,19 @@ $('a.close, #fade').live('click', function() { //When clicking on the close or f
     <div>
         <center>
         <table>
-            <tr><td class = "subject">Mathematics</tr>
-            <tr><td class = "classtitle">Algebra I</tr>
-            <tr><td class = "classtitle">Honors Algebra I</tr>
-            <tr><td class = "classtitle">Algebra II/Trigonometry</tr>
-            <tr><td class = "classtitle">Honors Algebra II/Trigonometry</tr>
-            <tr><td class = "classtitle">Geometry</tr>
-            <tr><td class = "classtitle">Honors Geometry</tr>
-            <tr><td class = "classtitle">Honors Precalculus</tr>
-            <tr><td class = "classtitle">Math Analysis/Introduction to Calculus</tr>
-            <tr><td class = "classtitle">Advanced Placement Calculus AB</tr>
-            <tr><td class = "classtitle">Advanced Placement Calculus BC</tr>
-            <tr><td class = "subject">Mathematics Electives</tr>
-            <tr><td class = "classtitle">Advanced Placement Statistics</tr>
+            <tr><td class = "subject">Mathematics</td></tr>
+            <tr><td class = "classtitle">Algebra I</td></tr>
+            <tr><td class = "classtitle">Honors Algebra I</td></tr>
+            <tr><td class = "classtitle">Algebra II/Trigonometry</td></tr>
+            <tr><td class = "classtitle">Honors Algebra II/Trigonometry</td></tr>
+            <tr><td class = "classtitle">Geometry</td></tr>
+            <tr><td class = "classtitle">Honors Geometry</td></tr>
+            <tr><td class = "classtitle">Honors Precalculus</td></tr>
+            <tr><td class = "classtitle">Math Analysis/Introduction to Calculus</td></tr>
+            <tr><td class = "classtitle">Advanced Placement Calculus AB</td></tr>
+            <tr><td class = "classtitle">Advanced Placement Calculus BC</td></tr>
+            <tr><td class = "subject">Mathematics Electives</td></tr>
+            <tr><td class = "classtitle">Advanced Placement Statistics</td></tr>
         </table>
         </center>
     </div>
@@ -267,11 +267,11 @@ $('a.close, #fade').live('click', function() { //When clicking on the close or f
     <div>
         <center>
         <table>
-            <tr><td class = "subject">Religion</tr>
-            <tr><td class = "classtitle">World Cultures</tr>
-            <tr><tdclass = "classtitle">Scripture Literature</tr>
-            <tr><td class = "classtitle">Morality and Service</tr>
-            <tr><td class = "classtitle">Contemporary Problems</tr>
+            <tr><td class = "subject">Religion</td></tr>
+            <tr><td class = "classtitle">World Cultures</td></tr>
+            <tr><tdclass = "classtitle">Scripture Literature</td></tr>
+            <tr><td class = "classtitle">Morality and Service</td></tr>
+            <tr><td class = "classtitle">Contemporary Problems</td></tr>
         </table>
         </center>
     </div>
@@ -281,15 +281,15 @@ $('a.close, #fade').live('click', function() { //When clicking on the close or f
     <div>
         <center>
         <table>
-            <tr><td class = "subject">Science</tr>
-            <tr><td class = "classtitle">Astronomy</tr>
-            <tr><td class = "classtitle">Biology</tr>
-            <tr><td class = "classtitle">Advanced Placement Biology</tr>
-            <tr><td class = "classtitle">Chemistry</tr>
-            <tr><td class = "classtitle">Honors Chemistry</tr>
-            <tr><td class = "classtitle">Advanced Placement Environmental Science</tr>
-            <tr><td class = "classtitle">Physics</tr>
-            <tr><td class = "classtitle">Advanced Placement Physics B</tr>
+            <tr><td class = "subject">Science</td></tr>
+            <tr><td class = "classtitle">Astronomy</td></tr>
+            <tr><td class = "classtitle">Biology</td></tr>
+            <tr><td class = "classtitle">Advanced Placement Biology</td></tr>
+            <tr><td class = "classtitle">Chemistry</td></tr>
+            <tr><td class = "classtitle">Honors Chemistry</td></tr>
+            <tr><td class = "classtitle">Advanced Placement Environmental Science</td></tr>
+            <tr><td class = "classtitle">Physics</td></tr>
+            <tr><td class = "classtitle">Advanced Placement Physics B</td></tr>
         </table>
         </center>
     </div>
@@ -299,15 +299,15 @@ $('a.close, #fade').live('click', function() { //When clicking on the close or f
     <div>
         <center>
         <table>
-            <tr><td class = "subject">Social Studies</tr>
-            <tr><td class = "classtitle">Entrepreneurial Studies</tr>
-            <tr><td class = "classtitle">Law and Society</tr>
-            <tr><td class = "classtitle">Psychology</tr>
-            <tr><td class = "classtitle">Advanced Placement Psychology</tr>
-            <tr><td class = "classtitle">United States History and Government</tr>
-            <tr><td class = "classtitle">Advanced Placement United States History</tr>
-            <tr><td class = "classtitle">World History and Geography</tr>
-            <tr><td class = "classtitle">Advanced Placement World History</tr>
+            <tr><td class = "subject">Social Studies</td></tr>
+            <tr><td class = "classtitle">Entrepreneurial Studies</td></tr>
+            <tr><td class = "classtitle">Law and Society</td></tr>
+            <tr><td class = "classtitle">Psychology</td></tr>
+            <tr><td class = "classtitle">Advanced Placement Psychology</td></tr>
+            <tr><td class = "classtitle">United States History and Government</td></tr>
+            <tr><td class = "classtitle">Advanced Placement United States History</td></tr>
+            <tr><td class = "classtitle">World History and Geography</td></tr>
+            <tr><td class = "classtitle">Advanced Placement World History</td></tr>
         </table>
         </center>
     </div>
@@ -317,11 +317,11 @@ $('a.close, #fade').live('click', function() { //When clicking on the close or f
     <div>
         <center>
         <table>
-            <tr><td class = "subject">Student Leadership</tr>
-            <tr><td class = "classtitle">Peer Mentoring</tr>
-            <tr><td class = "classtitle">Associated Student Body Officers</tr>
-            <tr><td class = "classtitle">Campus Ministry Team Officers</tr>
-            <tr><td class = "classtitle">Sport and Spirit Officers</tr>
+            <tr><td class = "subject">Student Leadership</td></tr>
+            <tr><td class = "classtitle">Peer Mentoring</td></tr>
+            <tr><td class = "classtitle">Associated Student Body Officers</td></tr>
+            <tr><td class = "classtitle">Campus Ministry Team Officers</td></tr>
+            <tr><td class = "classtitle">Sport and Spirit Officers</td></tr>
         </table>
         </center>
     </div>
@@ -331,9 +331,9 @@ $('a.close, #fade').live('click', function() { //When clicking on the close or f
     <div>
         <center>
         <table>
-            <tr><td class = "subject">Academic/Life Skills</tr>
-            <tr><td class = "classtitle">Preparation Course for College Entrance Tests</tr>
-            <tr><td class = "classtitle">Traffic Education</tr>
+            <tr><td class = "subject">Academic/Life Skills</td></tr>
+            <tr><td class = "classtitle">Preparation Course for College Entrance Tests</td></tr>
+            <tr><td class = "classtitle">Traffic Education</td></tr>
         </table>
         </center>
     </div>
