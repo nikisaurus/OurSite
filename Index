@@ -123,217 +123,217 @@ $('a.close, #fade').live('click', function() { //When clicking on the close or f
 
 // popup table with links for class.
     <center>
-    <div id= "classes">
+    <div>
         <center>
         <table>
-            <tr class= "subject">Computer Science</tr>
-            <tr class= "classtitle">Advanced Placement Computer Science A</tr>
-            <tr class = "classtitle">Projects in Computer Science I & II</tr>
+            <tr><td class= "subject">Computer Science</tr>
+            <tr><td class= "classtitle">Advanced Placement Computer Science A</tr>
+           <tr> <td class = "classtitle">Projects in Computer Science I & II</tr>
         </table>
         </center>
     </div>
     </center>
  
     <center>
-    <div id= "classes">
+    <div id>
         <center>
         <table>
-            <tr class = "subject">English</tr>
-            <tr class = "classtitle">College Prep English 9</tr>
-            <tr class = "classtitle">Honors English 9</tr>
-            <tr class = "classtitle">College Prep English 10</tr>
-            <tr class = "classtitle">Honors English 10</tr>
-            <tr class = "classtitle">College Prep English 11</tr>
-            <tr class = "classtitle">Honors English 11</tr>
-            <tr class = "classtitle">English 12: American Literature</tr>
-            <tr class = "classtitle">Advanced Placement English Literature 12: American Literature</tr>
-            <tr class = "subject">English Electives</tr>
-            <tr class = "classtitle">American Folklore</tr>
-            <tr class = "classtitle">Creative Writing</tr>
-            <tr class = "classtitle">Linguistics</tr>
-            <tr class = "classtitle">Yearbook</tr>
+            <tr><td class = "subject">English</tr>
+            <tr><td class = "classtitle">College Prep English 9</tr>
+            <tr><td class = "classtitle">Honors English 9</tr>
+            <tr><td class = "classtitle">College Prep English 10</tr>
+            <tr><td class = "classtitle">Honors English 10</tr>
+            <tr><td class = "classtitle">College Prep English 11</tr>
+            <tr><td class = "classtitle">Honors English 11</tr>
+            <tr><td class = "classtitle">English 12: American Literature</tr>
+            <tr><td class = "classtitle">Advanced Placement English Literature 12: American Literature</tr>
+            <tr><td class = "subject">English Electives</tr>
+            <tr><td class = "classtitle">American Folklore</tr>
+            <tr><td class = "classtitle">Creative Writing</tr>
+            <tr><td class = "classtitle">Linguistics</tr>
+            <tr><td class = "classtitle">Yearbook</tr>
         </table>
         </center>
     </div>
     </center>
 
     <center>
-    <div id= "classes">
+    <div>
         <center>
         <table>
-            <tr class = "subject">Theatre and Film</tr>
-            <tr class = "classtitle">Acting I</tr>
-            <tr class = "classtitle">Acting II</tr>
-            <tr class = "classtitle">Media Studies I: Film</tr>
-            <tr class = "classtitle">Media Studies II: Video Production</tr>
-            <tr class = "classtitle">Theatre Production: New Works Festival</tr>
+            <tr><td class = "subject">Theatre and Film</tr>
+            <tr><td class = "classtitle">Acting I</tr>
+            <tr><td class = "classtitle">Acting II</tr>
+            <tr><td class = "classtitle">Media Studies I: Film</tr>
+            <tr><td class = "classtitle">Media Studies II: Video Production</tr>
+            <tr><td class = "classtitle">Theatre Production: New Works Festival</tr>
         </table>
         </center>
     </div>
     </center>
 
     <center>
-    <div id= "classes">
+    <div>
         <center>
         <table>
-            <tr class = "subject">Music</tr>
-            <tr class = "classtitle">Chamber Ensemble</tr>
-            <tr class = "classtitle">Concert Choir</tr>
-            <tr class = "classtitle">Advanced Concert Choir</tr>
-            <tr class = "classtitle">Jazz Band</tr>
-            <tr class = "classtitle">Music Production</tr>
-            <tr class = "classtitle">Advanced Placement Music Theory</tr>
-            <tr class = "classtitle">Orchestra</tr>
-            <tr class = "classtitle">Private Music Lessons</tr>
-            <tr class = "classtitle">Small Instrument Ensembles</tr>
-            <tr class = "classtitle">Vocal Ensemble</tr>
+            <tr><td class = "subject">Music</tr>
+            <tr><td class = "classtitle">Chamber Ensemble</tr>
+            <tr><td class = "classtitle">Concert Choir</tr>
+            <tr><td class = "classtitle">Advanced Concert Choir</tr>
+            <tr><td class = "classtitle">Jazz Band</tr>
+            <tr><td class = "classtitle">Music Production</tr>
+            <tr><td class = "classtitle">Advanced Placement Music Theory</tr>
+            <tr><td class = "classtitle">Orchestra</tr>
+            <tr><td class = "classtitle">Private Music Lessons</tr>
+            <tr><td class = "classtitle">Small Instrument Ensembles</tr>
+            <tr><td class = "classtitle">Vocal Ensemble</tr>
         </table>
         </center>
     </div>
     </center>
 
     <center>
-    <div id= "classes">
+    <div>
         <center>
         <table>
-            <tr class = "subject">Visual Arts</tr>
-            <tr class = "classtitle">Advanced Placement Art History</tr>
-            <tr class = "classtitle">Advanced Placement Studio Art</tr>
-            <tr class = "classtitle">Art 2-D: Drawing and Painting</tr>
-            <tr class = "classtitle">Digital Photography</tr>
-            <tr class = "classtitle">Graphic Design</tr>
-            <tr class = "classtitle">Pottery</tr>
-            <tr class = "classtitle">Pottery Assistant</tr>
+            <tr><td class = "subject">Visual Arts</tr>
+            <tr><td class = "classtitle">Advanced Placement Art History</tr>
+            <tr><td class = "classtitle">Advanced Placement Studio Art</tr>
+            <tr><td class = "classtitle">Art 2-D: Drawing and Painting</tr>
+            <tr><td class = "classtitle">Digital Photography</tr>
+            <tr><td class = "classtitle">Graphic Design</tr>
+            <tr><td class = "classtitle">Pottery</tr>
+            <tr><td class = "classtitle">Pottery Assistant</tr>
         </table>
         </center>
     </div>
     </center>
 
 <center>
-    <div id= "classes">
+    <div id>
         <center>
         <table>
-            <tr class = "subject">Health and Physical Education</tr>
-            <tr class = "classtitle">Health</tr>
-            <tr class = "classtitle">Physical Education</tr>
-            <tr class = "classtitle">Recreational Leader</tr>
+            <tr><td class = "subject">Health and Physical Education</tr>
+            <tr><td class = "classtitle">Health</tr>
+            <tr><td class = "classtitle">Physical Education</tr>
+            <tr><td class = "classtitle">Recreational Leader</tr>
         </table>
         </center>
     </div>
     </center>
 
 <center>
-    <div id= "classes">
+    <div>
         <center>
         <table>
-            <tr class = "subject">International Language</tr>
-            <tr class = "classtitle">French I</tr>
-            <tr class = "classtitle">French II</tr>
-            <tr class = "classtitle">French III</tr>
-            <tr class = "classtitle">Advanced Placement French Language</tr>
-            <tr class = "classtitle">Spanish I</tr>
-            <tr class = "classtitle">Spanish II</tr>
-            <tr class = "classtitle">Spanish III</tr>
-            <tr class = "classtitle">Advanced Placement Spanish Language</tr>
-            <tr class = "classtitle">International Language Assistant</tr>
+            <tr><td class = "subject">International Language</tr>
+            <tr><td class = "classtitle">French I</tr>
+            <tr><td class = "classtitle">French II</tr>
+            <tr><td class = "classtitle">French III</tr>
+            <tr><td class = "classtitle">Advanced Placement French Language</tr>
+            <tr><td class = "classtitle">Spanish I</tr>
+            <tr><td class = "classtitle">Spanish II</tr>
+            <tr><td class = "classtitle">Spanish III</tr>
+            <tr><td class = "classtitle">Advanced Placement Spanish Language</tr>
+            <tr><td class = "classtitle">International Language Assistant</tr>
         </table>
         </center>
     </div>
     </center>
 
 <center>
-    <div id= "classes">
+    <div>
         <center>
         <table>
-            <tr class = "subject">Mathematics</tr>
-            <tr class = "classtitle">Algebra I</tr>
-            <tr class = "classtitle">Honors Algebra I</tr>
-            <tr class = "classtitle">Algebra II/Trigonometry</tr>
-            <tr class = "classtitle">Honors Algebra II/Trigonometry</tr>
-            <tr class = "classtitle">Geometry</tr>
-            <tr class = "classtitle">Honors Geometry</tr>
-            <tr class = "classtitle">Honors Precalculus</tr>
-            <tr class = "classtitle">Math Analysis/Introduction to Calculus</tr>
-            <tr class = "classtitle">Advanced Placement Calculus AB</tr>
-            <tr class = "classtitle">Advanced Placement Calculus BC</tr>
-            <tr class = "subject">Mathematics Electives</tr>
-            <tr class = "classtitle">Advanced Placement Statistics</tr>
+            <tr><td class = "subject">Mathematics</tr>
+            <tr><td class = "classtitle">Algebra I</tr>
+            <tr><td class = "classtitle">Honors Algebra I</tr>
+            <tr><td class = "classtitle">Algebra II/Trigonometry</tr>
+            <tr><td class = "classtitle">Honors Algebra II/Trigonometry</tr>
+            <tr><td class = "classtitle">Geometry</tr>
+            <tr><td class = "classtitle">Honors Geometry</tr>
+            <tr><td class = "classtitle">Honors Precalculus</tr>
+            <tr><td class = "classtitle">Math Analysis/Introduction to Calculus</tr>
+            <tr><td class = "classtitle">Advanced Placement Calculus AB</tr>
+            <tr><td class = "classtitle">Advanced Placement Calculus BC</tr>
+            <tr><td class = "subject">Mathematics Electives</tr>
+            <tr><td class = "classtitle">Advanced Placement Statistics</tr>
         </table>
         </center>
     </div>
     </center>
 
 <center>
-    <div id= "classes">
+    <div>
         <center>
         <table>
-            <tr class = "subject">Religion</tr>
-            <tr class = "classtitle">World Cultures</tr>
-            <tr class = "classtitle">Scripture Literature</tr>
-            <tr class = "classtitle">Morality and Service</tr>
-            <tr class = "classtitle">Contemporary Problems</tr>
+            <tr><td class = "subject">Religion</tr>
+            <tr><td class = "classtitle">World Cultures</tr>
+            <tr><tdclass = "classtitle">Scripture Literature</tr>
+            <tr><td class = "classtitle">Morality and Service</tr>
+            <tr><td class = "classtitle">Contemporary Problems</tr>
         </table>
         </center>
     </div>
     </center>
 
 <center>
-    <div id= "classes">
+    <div>
         <center>
         <table>
-            <tr class = "subject">Science</tr>
-            <tr class = "classtitle">Astronomy</tr>
-            <tr class = "classtitle">Biology</tr>
-            <tr class = "classtitle">Advanced Placement Biology</tr>
-            <tr class = "classtitle">Chemistry</tr>
-            <tr class = "classtitle">Honors Chemistry</tr>
-            <tr class = "classtitle">Advanced Placement Environmental Science</tr>
-            <tr class = "classtitle">Physics</tr>
-            <tr class = "classtitle">Advanced Placement Physics B</tr>
+            <tr><td class = "subject">Science</tr>
+            <tr><td class = "classtitle">Astronomy</tr>
+            <tr><td class = "classtitle">Biology</tr>
+            <tr><td class = "classtitle">Advanced Placement Biology</tr>
+            <tr><td class = "classtitle">Chemistry</tr>
+            <tr><td class = "classtitle">Honors Chemistry</tr>
+            <tr><td class = "classtitle">Advanced Placement Environmental Science</tr>
+            <tr><td class = "classtitle">Physics</tr>
+            <tr><td class = "classtitle">Advanced Placement Physics B</tr>
         </table>
         </center>
     </div>
     </center>
 
 <center>
-    <div id= "classes">
+    <div>
         <center>
         <table>
-            <tr class = "subject">Social Studies</tr>
-            <tr class = "classtitle">Entrepreneurial Studies</tr>
-            <tr class = "classtitle">Law and Society</tr>
-            <tr class = "classtitle">Psychology</tr>
-            <tr class = "classtitle">Advanced Placement Psychology</tr>
-            <tr class = "classtitle">United States History and Government</tr>
-            <tr class = "classtitle">Advanced Placement United States History</tr>
-            <tr class = "classtitle">World History and Geography</tr>
-            <tr class = "classtitle">Advanced Placement World History</tr>
+            <tr><td class = "subject">Social Studies</tr>
+            <tr><td class = "classtitle">Entrepreneurial Studies</tr>
+            <tr><td class = "classtitle">Law and Society</tr>
+            <tr><td class = "classtitle">Psychology</tr>
+            <tr><td class = "classtitle">Advanced Placement Psychology</tr>
+            <tr><td class = "classtitle">United States History and Government</tr>
+            <tr><td class = "classtitle">Advanced Placement United States History</tr>
+            <tr><td class = "classtitle">World History and Geography</tr>
+            <tr><td class = "classtitle">Advanced Placement World History</tr>
         </table>
         </center>
     </div>
     </center>
 
 <center>
-    <div id= "classes">
+    <div>
         <center>
         <table>
-            <tr class = "subject">Student Leadership</tr>
-            <tr class = "classtitle">Peer Mentoring</tr>
-            <tr class = "classtitle">Associated Student Body Officers</tr>
-            <tr class = "classtitle">Campus Ministry Team Officers</tr>
-            <tr class = "classtitle">Sport and Spirit Officers</tr>
+            <tr><td class = "subject">Student Leadership</tr>
+            <tr><td class = "classtitle">Peer Mentoring</tr>
+            <tr><td class = "classtitle">Associated Student Body Officers</tr>
+            <tr><td class = "classtitle">Campus Ministry Team Officers</tr>
+            <tr><td class = "classtitle">Sport and Spirit Officers</tr>
         </table>
         </center>
     </div>
     </center>
 
 <center>
-    <div id= "classes">
+    <div>
         <center>
         <table>
-            <tr class = "subject">Academic/Life Skills</tr>
-            <tr class = "classtitle">Preparation Course for College Entrance Tests</tr>
-            <tr class = "classtitle">Traffic Education</tr>
+            <tr><td class = "subject">Academic/Life Skills</tr>
+            <tr><td class = "classtitle">Preparation Course for College Entrance Tests</tr>
+            <tr><td class = "classtitle">Traffic Education</tr>
         </table>
         </center>
     </div>
