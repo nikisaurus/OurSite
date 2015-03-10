@@ -55,7 +55,7 @@ $('a.close, #fade').live('click', function() { //When clicking on the close or f
 
 <body>
 <div id="container">
-<div id="navigation"k>
+<div id="navigation">
     <table width="100%"><tr valign="center">
         <td><div class="title"><b>FORCASTING</b> &emsp; at hna</div></td>
         
@@ -86,29 +86,13 @@ $('a.close, #fade').live('click', function() { //When clicking on the close or f
 
     <div id="header"> </div>
 
-    <div id="about"> 
-        <div class="text">
-            <center>
-            <table>
-            <td style="text-align: right;">
-                Umami deep v actually, meh XOXO stumptown hashtag tilde selvage blog direct trade PBR. Chambray hella you probably haven't heard of them fixie scenester. Direct trade irony before they sold out, pop-up food truck Odd Future salvia twee keffiyeh selfies. Gentrify artisan slow-carb distillery, wayfarers beard pop-up meh tousled. <p></p> Neutra dreamcatcher typewriter, irony 90's post-ironic cronut. Cold-pressed scenester single-origin coffee +1 lomo Intelligentsia messenger bag, literally sustainable bespoke wayfarers. Tattooed drinking vinegar fingerstache, migas pour-over dreamcatcher.
-            </td>
-                
-            <td>
-                <img src="http://placehold.it/350x250">
-            </td>
-            </table>
-            </center>
-        </div>
-    </div>
-    
     <div id="about">
         <center>
         <div class="imgs">
             <center>
-                <a href="#?w=500" rel="TES" class="poplight"> <img src="http://i.imgur.com/d1EA0cL.png"> </a>
-            <img src="http://placehold.it/350x250">
-            <img src="http://placehold.it/350x250">
+                <a href="#?w=500" rel="math" class="poplight"> <img src="http://i.imgur.com/B9OoCIv.png"> </a>
+                <a href="#?w=500" rel="english" class="poplight"> <img src="http://i.imgur.com/iZRhbQR.png"> </a>
+            <img src="http://i.imgur.com/2Owc4Dk.png">
             <img src="http://placehold.it/350x250">
             <img src="http://placehold.it/350x250">
             <img src="http://placehold.it/350x250">
@@ -119,223 +103,32 @@ $('a.close, #fade').live('click', function() { //When clicking on the close or f
         </center>
     </div>
     
-    <div id="TES" class="popup_block">
-
-// popup table with links for class.
+    <div id="math" class="popup_block">
     <center>
-    <div>
-        <center>
         <table>
-            <tr><td class= "subject">Computer Science</td></tr>
-            <tr><td class= "classtitle">Advanced Placement Computer Science A</td></tr>
-           <tr> <td class = "classtitle">Projects in Computer Science I & II</td></tr>
-        </table>
-        </center>
-    </div>
-    </center>
- 
-    <center>
-    <div id>
-        <center>
-        <table>
-            <tr><td class = "subject">English</td></tr>
-            <tr><td class = "classtitle">College Prep English 9</td></tr>
-            <tr><td class = "classtitle">Honors English 9</td></tr>
-            <tr><td class = "classtitle">College Prep English 10</td></tr>
-            <tr><td class = "classtitle">Honors English 10</td></tr>
-            <tr><td class = "classtitle">College Prep English 11</td></tr>
-            <tr><td class = "classtitle">Honors English 11</td></tr>
-            <tr><td class = "classtitle">English 12: American Literature</td></tr>
-            <tr><td class = "classtitle">Advanced Placement English Literature 12: American Literature</td></tr>
-            <tr><td class = "subject">English Electives</td></tr>
-            <tr><td class = "classtitle">American Folklore</td></tr>
-            <tr><td class = "classtitle">Creative Writing</td></tr>
-            <tr><td class = "classtitle">Linguistics</td></tr>
-            <tr><td class = "classtitle">Yearbook</td></tr>
-        </table>
-        </center>
-    </div>
-    </center>
+        <td valign="top">
+            <a href="/"> Algebra I </a>
+            <a href="/"> Honors Algebra I </a>
+            <a href="/"> Algebra II/Trigonometry </a>
+            <a href="/"> Honors Algebra II/Trigonometry </a>
+            <a href="/"> Geometry </a>
+            <a href="/"> Honors Geometry </a>
+         </td><td valign="top">
+            <a href="/"> Honors Precalculus </a>
+            <a href="/"> Math Analysis/Intro to Calculus </a>
+            <a href="/"> Advanced Placement Calculus AB </a>
+            <a href="/"> Advanced Placement Calculus BC </a>
+            <a href="/"> Advanced Placement Statistics </a>
+        </td>
 
-    <center>
-    <div>
-        <center>
-        <table>
-            <tr><td class = "subject">Theatre and Film</td></tr>
-            <tr><td class = "classtitle">Acting I</td></tr>
-            <tr><td class = "classtitle">Acting II</td></tr>
-            <tr><td class = "classtitle">Media Studies I: Film</td></tr>
-            <tr><td class = "classtitle">Media Studies II: Video Production</td></tr>
-            <tr><td class = "classtitle">Theatre Production: New Works Festival</td></tr>
         </table>
-        </center>
-    </div>
-    </center>
+    </center>      
+</div>
+    
+     <div id="english" class="popup_block">
 
-    <center>
-    <div>
-        <center>
-        <table>
-            <tr><td class = "subject">Music</td></tr>
-            <tr><td class = "classtitle">Chamber Ensemble</td></tr>
-            <tr><td class = "classtitle">Concert Choir</td></tr>
-            <tr><td class = "classtitle">Advanced Concert Choir</td></tr>
-            <tr><td class = "classtitle">Jazz Band</td></tr>
-            <tr><td class = "classtitle">Music Production</td></tr>
-            <tr><td class = "classtitle">Advanced Placement Music Theory</td></tr>
-            <tr><td class = "classtitle">Orchestra</td></tr>
-            <tr><td class = "classtitle">Private Music Lessons</td></tr>
-            <tr><td class = "classtitle">Small Instrument Ensembles</td></tr>
-            <tr><td class = "classtitle">Vocal Ensemble</td></tr>
-        </table>
-        </center>
-    </div>
-    </center>
+// english
+        
+</div>
 
-    <center>
-    <div>
-        <center>
-        <table>
-            <tr><td class = "subject">Visual Arts</td></tr>
-            <tr><td class = "classtitle">Advanced Placement Art History</td></tr>
-            <tr><td class = "classtitle">Advanced Placement Studio Art</td></tr>
-            <tr><td class = "classtitle">Art 2-D: Drawing and Painting</td></tr>
-            <tr><td class = "classtitle">Digital Photography</td></tr>
-            <tr><td class = "classtitle">Graphic Design</td></tr>
-            <tr><td class = "classtitle">Pottery</td></tr>
-            <tr><td class = "classtitle">Pottery Assistant</td></tr>
-        </table>
-        </center>
-    </div>
-    </center>
-
-<center>
-    <div id>
-        <center>
-        <table>
-            <tr><td class = "subject">Health and Physical Education</td></tr>
-            <tr><td class = "classtitle">Health</td></tr>
-            <tr><td class = "classtitle">Physical Education</td></tr>
-            <tr><td class = "classtitle">Recreational Leader</td></tr>
-        </table>
-        </center>
-    </div>
-    </center>
-
-<center>
-    <div>
-        <center>
-        <table>
-            <tr><td class = "subject">International Language</td></tr>
-            <tr><td class = "classtitle">French I</td></tr>
-            <tr><td class = "classtitle">French II</td></tr>
-            <tr><td class = "classtitle">French III</td></tr>
-            <tr><td class = "classtitle">Advanced Placement French Language</td></tr>
-            <tr><td class = "classtitle">Spanish I</td></tr>
-            <tr><td class = "classtitle">Spanish II</td></tr>
-            <tr><td class = "classtitle">Spanish III</td></tr>
-            <tr><td class = "classtitle">Advanced Placement Spanish Language</td></tr>
-            <tr><td class = "classtitle">International Language Assistant</td></tr>
-        </table>
-        </center>
-    </div>
-    </center>
-
-<center>
-    <div>
-        <center>
-        <table>
-            <tr><td class = "subject">Mathematics</td></tr>
-            <tr><td class = "classtitle">Algebra I</td></tr>
-            <tr><td class = "classtitle">Honors Algebra I</td></tr>
-            <tr><td class = "classtitle">Algebra II/Trigonometry</td></tr>
-            <tr><td class = "classtitle">Honors Algebra II/Trigonometry</td></tr>
-            <tr><td class = "classtitle">Geometry</td></tr>
-            <tr><td class = "classtitle">Honors Geometry</td></tr>
-            <tr><td class = "classtitle">Honors Precalculus</td></tr>
-            <tr><td class = "classtitle">Math Analysis/Introduction to Calculus</td></tr>
-            <tr><td class = "classtitle">Advanced Placement Calculus AB</td></tr>
-            <tr><td class = "classtitle">Advanced Placement Calculus BC</td></tr>
-            <tr><td class = "subject">Mathematics Electives</td></tr>
-            <tr><td class = "classtitle">Advanced Placement Statistics</td></tr>
-        </table>
-        </center>
-    </div>
-    </center>
-
-<center>
-    <div>
-        <center>
-        <table>
-            <tr><td class = "subject">Religion</td></tr>
-            <tr><td class = "classtitle">World Cultures</td></tr>
-            <tr><tdclass = "classtitle">Scripture Literature</td></tr>
-            <tr><td class = "classtitle">Morality and Service</td></tr>
-            <tr><td class = "classtitle">Contemporary Problems</td></tr>
-        </table>
-        </center>
-    </div>
-    </center>
-
-<center>
-    <div>
-        <center>
-        <table>
-            <tr><td class = "subject">Science</td></tr>
-            <tr><td class = "classtitle">Astronomy</td></tr>
-            <tr><td class = "classtitle">Biology</td></tr>
-            <tr><td class = "classtitle">Advanced Placement Biology</td></tr>
-            <tr><td class = "classtitle">Chemistry</td></tr>
-            <tr><td class = "classtitle">Honors Chemistry</td></tr>
-            <tr><td class = "classtitle">Advanced Placement Environmental Science</td></tr>
-            <tr><td class = "classtitle">Physics</td></tr>
-            <tr><td class = "classtitle">Advanced Placement Physics B</td></tr>
-        </table>
-        </center>
-    </div>
-    </center>
-
-<center>
-    <div>
-        <center>
-        <table>
-            <tr><td class = "subject">Social Studies</td></tr>
-            <tr><td class = "classtitle">Entrepreneurial Studies</td></tr>
-            <tr><td class = "classtitle">Law and Society</td></tr>
-            <tr><td class = "classtitle">Psychology</td></tr>
-            <tr><td class = "classtitle">Advanced Placement Psychology</td></tr>
-            <tr><td class = "classtitle">United States History and Government</td></tr>
-            <tr><td class = "classtitle">Advanced Placement United States History</td></tr>
-            <tr><td class = "classtitle">World History and Geography</td></tr>
-            <tr><td class = "classtitle">Advanced Placement World History</td></tr>
-        </table>
-        </center>
-    </div>
-    </center>
-
-<center>
-    <div>
-        <center>
-        <table>
-            <tr><td class = "subject">Student Leadership</td></tr>
-            <tr><td class = "classtitle">Peer Mentoring</td></tr>
-            <tr><td class = "classtitle">Associated Student Body Officers</td></tr>
-            <tr><td class = "classtitle">Campus Ministry Team Officers</td></tr>
-            <tr><td class = "classtitle">Sport and Spirit Officers</td></tr>
-        </table>
-        </center>
-    </div>
-    </center>
-
-<center>
-    <div>
-        <center>
-        <table>
-            <tr><td class = "subject">Academic/Life Skills</td></tr>
-            <tr><td class = "classtitle">Preparation Course for College Entrance Tests</td></tr>
-            <tr><td class = "classtitle">Traffic Education</td></tr>
-        </table>
-        </center>
-    </div>
-    </center>
 </body>
