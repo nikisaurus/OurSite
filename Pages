@@ -38,9 +38,9 @@
 
     <div id="container">   
     <div id="sidebar">
-        <div id="sidebarimage" style="background-image:url(http://31.media.tumblr.com/931e45a418bc03ba186cd88ff14f4050/tumblr_njiv0oWTYE1s0t9k2o1_500.gif);"></div>
+        <div id="sidebarimage" style="background-image:url(http://placehold.it/300x250);"></div>
         
-        Dreamcatcher XOXO Echo Park scenester, jean shorts craft beer try-hard chia kogi chillwave McSweeney's normcore locavore swag. Synth gentrify biodiesel Echo Park aesthetic, +1 banjo cronut blog kale chips. Fanny pack taxidermy flannel flexitarian health goth next level plaid.
+        <div class="quote"> "Dreamcatcher XOXO Echo Park scenester, jean shorts craft beer try-hard chia kogi chillwave McSweeney's normcore locavore swag." </div>
         </div>
     
     <div id ="entries">
@@ -48,13 +48,20 @@
 
         <div class="post">
 
-            <div class="featured">
+           <!-- <div class="featured">
             <div class="crop" style="background-image:url(http://i.imgur.com/HhLA7Jq.gif);"></div>
-            </div>
+            </div> --> 
 
-            <div class="title">BELLARKE HUGGING IT OUT</div>
+            <div class="title">Advaced Placement Computer Science A</div>
+            
+            <blockquote>Prerequisites:<br> Algebra II / Trig</blockquote>
 
-            <p> I can't even with these two. Like they are so cute and perfect for each other. I don't understand. Dreamcatcher XOXO Echo Park scenester, jean shorts craft beer try-hard chia kogi chillwave McSweeney's normcore locavore swag. Synth gentrify biodiesel Echo Park aesthetic, +1 banjo cronut blog kale chips. Fanny pack taxidermy flannel flexitarian health goth next level plaid. <blockquote>"I can't lose you too."</blockquote><center><img src="http://i.imgur.com/abbtuG0.gif"><img src="http://i.imgur.com/X7DWv9w.gif"></center><p></p>Bitters flannel mlkshk biodiesel. Cray biodiesel next level hella drinking vinegar High Life. Master cleanse tofu butcher Neutra distillery. Odd Future flexitarian normcore meditation, pug letterpress before they sold out post-ironic Blue Bottle 8-bit Etsy mumblecore ugh.</p>
+            <p> I can't even with these two. Like they are so cute and perfect for each other. I don't understand. Dreamcatcher XOXO Echo Park scenester, jean shorts craft beer try-hard chia kogi chillwave McSweeney's normcore locavore swag. Synth gentrify biodiesel Echo Park aesthetic, +1 banjo cronut blog kale chips.  
+            
+            <blockquote>Difficulty out of 10: ##</blockquote>
+            <blockquote>Q: What is the most challenging? <br> A: Blah blah blah</blockquote>
+            
+            <p></p>Bitters flannel mlkshk biodiesel. Cray biodiesel next level hella drinking vinegar High Life. Master cleanse tofu butcher Neutra distillery. Odd Future flexitarian normcore meditation, pug letterpress before they sold out post-ironic Blue Bottle 8-bit Etsy mumblecore ugh.</p>
         
         </div>
     </div>
