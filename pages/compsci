@@ -1,0 +1,75 @@
+<head>
+<link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic|Raleway:400,300,500,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="/main.css" type="text/css" media="screen" />
+</head>
+
+<body>
+<div id="container">
+<div id="navigation">
+    <table width="100%"><tr valign="center">
+        <td><div class="title"><b>FORCASTING</b> &emsp; at hna</div></td>
+        
+        
+    <td><div style="float:right;text-align:right;">
+        <a href="/">Homepage</a> &emsp;
+        
+       <div class="dropdown">
+           <button>View Classes</button>
+           <ul class="dropdown-menu">
+               <li><a href="#" onclick="return false" style="border-top: 1px solid #eee;">Science</a></li>
+               <li><a href="#" onclick="return false" >Arts</a></li>
+               <li><a href="#" onclick="return false" >English</a></li>
+               <li><a href="#" onclick="return false" >Math</a></li>
+               <li><a href="#" onclick="return false" >Language</a></li>
+               <li><a href="#" onclick="return false" >History</a></li>
+               <li><a href="#" onclick="return false" >Other</a></li>
+           </ul>
+        </div> &emsp;
+        
+        <a href="/career">Favorites</a> &emsp;
+        <a href="/photos">Photo Gallery</a> &emsp;
+        <a href="/website">Contact Us</a> &emsp;
+    </div></td>
+    </tr></table>
+</div>
+</div>
+
+    <div id="header"> </div>
+
+    <div id="container">   
+    <div id="sidebar">
+        <div id="sidebarimage" style="background-image:url(http://placehold.it/300x250);"></div>
+        
+        <div class="quote"> “Computer Science is super useful, no matter what career you go into.” – Mary Martin ‘15 </div>
+        </div>
+    
+    <div id ="entries">
+    <div id="entry">
+
+        <div class="post">
+
+           <!-- <div class="featured">
+            <div class="crop" style="background-image:url(http://i.imgur.com/HhLA7Jq.gif);"></div>
+            </div> --> 
+
+            <div class="title">Advaced Placement Computer Science A</div>
+            
+            
+            <blockquote>Credits: <br>2 semesters, 1 credit per semester <p></p>Prerequisites:<br> Completion of Honors Algebra II/Trigonometry or concurrent enrollment in Algebra II or Honors Pre-calculus; application; signature of teacher.</blockquote>
+
+            <p> This is a computer science course with an emphasis on programming methodology and a focus on
+problem solving and algorithm development. The course emphasizes Object-Oriented design, follows the
+AP Computer Science A syllabus, and uses the Java computer language. Students should plan on
+spending at least three hours per week outside of class time working on the computer. All students who
+elect this course are required to take the AP Exam. (from the course catalog)  
+            
+            <blockquote>Q: What is the most challenging? <br> A: It's very logic oriented, very abstract</blockquote>
+            
+             <blockquote>Q: What is the most popular in the course? <br> A: Labs for each unit, includes a course reader</blockquote>
+        
+        </div>
+    </div>
+    </div>
+    </div> 
+
+</body>
