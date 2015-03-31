@@ -1,0 +1,59 @@
+<head>
+<link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic|Raleway:400,300,500,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="/main.css" type="text/css" media="screen" />
+</head>
+<body>
+<div id="container">
+<div id="navigation">
+<table width="100%"><tr valign="center">
+<td><div class="title"><b>FORCASTING</b> &emsp; at hna</div></td>
+<td><div style="float:right;text-align:right;">
+<a href="/">Homepage</a> &emsp;
+<div class="dropdown">
+<button>View Classes</button>
+<ul class="dropdown-menu">
+<li><a href="#" onclick="return false" style="border-top: 1px solid #eee;">Science</a></li>
+<li><a href="#" onclick="return false" >Arts</a></li>
+<li><a href="#" onclick="return false" >English</a></li>
+<li><a href="#" onclick="return false" >Math</a></li>
+<li><a href="#" onclick="return false" >Language</a></li>
+<li><a href="#" onclick="return false" >History</a></li>
+<li><a href="#" onclick="return false" >Other</a></li>
+</ul>
+</div> &emsp;
+<a href="/career">Favorites</a> &emsp;
+<a href="/photos">Photo Gallery</a> &emsp;
+<a href="/website">Contact Us</a> &emsp;
+</div></td>
+</tr></table>
+</div>
+</div>
+<div id="header"> </div>
+<div id="container">
+<div id="sidebar">
+<div id="sidebarimage" style="background-image:url(http://placehold.it/300x250);"></div>
+<div class="quote"> “Although getting up early is a little rough, this class is a great opportunity to further one’s knowledge of computer science and learn from people in the field. The collaboration is fantastic and it’s very fun to use one’s skills from AP Comp Sci for real world applications.” – Cassie Sartain ‘16</div>
+</div>
+<div id ="entries">
+<div id="entry">
+<div class="post">
+<!-- <div class="featured">
+<div class="crop" style="background-image:url(http://i.imgur.com/HhLA7Jq.gif);"></div>
+</div> -->
+<div class="title”>Projects in Computer Science I & II</div>
+<blockquote>Credits: <br>2 semesters, 1 credit per semester <p></p>Prerequisites:<br> Successful completion of AP Computer Science, signature of AP Computer Science teacher.
+</blockquote>
+<p> 
+This course will provide an opportunity for students who have completed the AP Computer Science course to expand their programming knowledge and work on significant projects of their choice. Lessons on software development processes, project design and management, and other topics will assist students in completing the project and advance their programming skills. Students taking this course will be expected to be self-directed and ambitious. Local computer scientists and programmers will mentor students to provide relevant examples of how programming is used in their field and industry. These projects will offer students the experience of creating relevant projects of their own design to demonstrate the value and power of computer science.
+
+
+(from the course catalog)
+<blockquote>Q: What is the most challenging? <br> A: the self-directed style of the class</blockquote>
+<blockquote>Q: What is the most popular in the course? <br> A: Building your own project
+</blockquote>
+<blockquote>Q: Other comments? <br> A: Looks great on college apps.</blockquote>
+</div>
+</div>
+</div>
+</div>
+</body>
