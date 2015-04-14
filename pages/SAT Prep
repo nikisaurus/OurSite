@@ -1,0 +1,76 @@
+<head>
+<link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic|Raleway:400,300,500,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="/main.css" type="text/css" media="screen" />
+</head>
+
+<body>
+<div id="container">
+<div id="navigation">
+    <table width="100%"><tr valign="center">
+        <td><div class="title"><b>FORCASTING</b> &emsp; at hna</div></td>
+        
+        
+    <td><div style="float:right;text-align:right;">
+        <a href="/">Homepage</a> &emsp;
+        
+       <div class="dropdown">
+           <button>View Classes</button>
+           <ul class="dropdown-menu">
+               <li><a href="#" onclick="return false" style="border-top: 1px solid #eee;">Science</a></li>
+               <li><a href="#" onclick="return false" >Arts</a></li>
+               <li><a href="#" onclick="return false" >English</a></li>
+               <li><a href="#" onclick="return false" >Math</a></li>
+               <li><a href="#" onclick="return false" >Language</a></li>
+               <li><a href="#" onclick="return false" >History</a></li>
+               <li><a href="#" onclick="return false" >Other</a></li>
+           </ul>
+        </div> &emsp;
+        
+        <a href="/career">Favorites</a> &emsp;
+        <a href="/photos">Photo Gallery</a> &emsp;
+        <a href="/website">Contact Us</a> &emsp;
+    </div></td>
+    </tr></table>
+</div>
+</div>
+
+    <div id="header"> </div>
+
+    <div id="container">   
+    <div id="sidebar">
+        <div id="sidebarimage" style="background-image:url(http://placehold.it/300x250);"></div>
+        
+        <div class="quote"> “Computer Science is super useful, no matter what career you go into.” – Mary Martin ‘15 </div>
+        </div>
+    
+    <div id ="entries">
+    <div id="entry">
+
+        <div class="post">
+
+           <!-- <div class="featured">
+            <div class="crop" style="background-image:url(http://i.imgur.com/HhLA7Jq.gif);"></div>
+            </div> --> 
+
+            <div class="title">Preparation Course for College Entrance Tests</div>
+            
+            
+            <blockquote>Credits: <br>None <p></p>Prerequisites:<br> Fee of $125</blockquote>
+
+            <p> This course offers directed preparation for College Board tests such as the SAT, PSAT, or ACT. The
+course is designed to develop strategies for approaching problems in both the verbal and mathematical
+areas. It includes frequent practice problems and tests in order to reduce test anxiety. This course will
+meet either two times per week for a six-week block of time or for six Saturday sessions. This course is
+typically offered twice per year in the fall and winter. Application materials are emailed home in the
+parent newsletter. Registration fee and materials are approximately $125; price is subject to change.
+Course is limited to first come, first served, with priority going to 11th and 12th graders. Registration
+information and forms are distributed in the parent newsletters. Contact the Academic Office for more
+information. </p> 
+            
+            
+        </div>
+    </div>
+    </div>
+    </div> 
+
+</body>
