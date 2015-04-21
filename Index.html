@@ -1,6 +1,6 @@
 <head>
 <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic|Raleway:400,300,500,700' rel='stylesheet' type='text/css'>
-<link rel="stylesheet" href="https://github.com/nikisaurus/OurSite/blob/master/main.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/main.css" type="text/css" media="screen" />
     
     <script type="text/javascript"
 src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
@@ -64,20 +64,19 @@ $('a.close, #fade').live('click', function() { //When clicking on the close or f
         <a href="/">Homepage</a> &emsp;
         
        <div class="dropdown">
-           <button>View Classes</button>
+           <button>View Classes</button> 
            <ul class="dropdown-menu">
-               <li><a href="#" onclick="return false" style="border-top: 1px solid #eee;">Science</a></li>
-               <li><a href="#" onclick="return false" >Arts</a></li>
-               <li><a href="#" onclick="return false" >English</a></li>
-               <li><a href="#" onclick="return false" >Math</a></li>
-               <li><a href="#" onclick="return false" >Language</a></li>
-               <li><a href="#" onclick="return false" >History</a></li>
-               <li><a href="#" onclick="return false" >Other</a></li>
+               <li><a href="/science.html" style="border-top: 1px solid #eee;">Science</a></li>
+               <li><a href="/arts.html">Arts</a></li>
+               <li><a href="/english.html">English</a></li>
+               <li><a href="/math.html">Math</a></li>
+               <li><a href="/language.html">Language</a></li>
+               <li><a href="/history.html">History</a></li>
+               <li><a href="/compscience.html">Computer Science</a></li>
+               <li><a href="/leadership.html">Student Leadership</a></li>
+               <li><a href="/skills.html"> Life Skills</a></li>
            </ul>
         </div> &emsp;
-        
-        <a href="/career">Favorites</a> &emsp;
-        <a href="/photos">Photo Gallery</a> &emsp;
         <a href="/website">Contact Us</a> &emsp;
     </div></td>
     </tr></table>
@@ -88,11 +87,13 @@ $('a.close, #fade').live('click', function() { //When clicking on the close or f
 
     <div id="about">
         <center>
-        <div class="imgs">
+        <div class="imgs">  <!-- popup for classes --> 
             <center>
-                <a href="#?w=500" rel="math" class="poplight"> <img src="http://i.imgur.com/B9OoCIv.png"> </a>
-                <a href="#?w=500" rel="english" class="poplight"> <img src="http://i.imgur.com/iZRhbQR.png"> </a>
-            <img src="http://i.imgur.com/2Owc4Dk.png">
+                <a href="#?w=500" rel="math" class="poplight"> <img src="http://i.imgur.com/pokyQXn.png"> </a>
+                <a href="#?w=500" rel="english" class="poplight"> <img src="http://i.imgur.com/CN0TWmW.png"> </a>
+                <a href="#?w=500" rel="compsci" class="poplight"> <img src="http://i.imgur.com/UaY6wQX.png"> </a>
+                <a href="#?w=500" rel="arts" class="poplight">  <img src="http://i.imgur.com/zlNYnzT.png"> </a>
+                <a href="#?w=500" rel="language" class="poplight">  <img src="http://i.imgur.com/mtZALTU.png"> </a>
             <img src="http://placehold.it/350x250">
             <img src="http://placehold.it/350x250">
             <img src="http://placehold.it/350x250">
@@ -120,15 +121,75 @@ $('a.close, #fade').live('click', function() { //When clicking on the close or f
             <a href="/"> Advanced Placement Calculus BC </a>
             <a href="/"> Advanced Placement Statistics </a>
         </td>
-
         </table>
     </center>      
-</div>
+    </div>
     
      <div id="english" class="popup_block">
-
-// english
-        
-</div>
+     <center>
+        <table>
+        <td valign="top">
+            <a href="/"> College Prep English 9</a>
+            <a href="/"> Honors English 9 </a>
+            <a href="/"> College Prep English 10 </a>
+            <a href="/"> Honors English 10 </a>
+            <a href="/"> College Prep English 11 </a>
+            <a href="/"> Honors English 11 </a>
+         </td><td valign="top">
+            <a href="/"> English 12: <br> American Literature </a>
+            <a href="/"> American Folklore </a>
+            <a href="/"> Creative Writing </a>
+            <a href="/"> Linguistics </a>
+            <a href="/"> Yearbook </a>
+        </td>
+        </table>
+    </center>        
+    </div>
+    
+     <div id="compsci" class="popup_block">
+     <center>
+        <table>
+        <td valign="top">
+            <a href="/compsci.html"> Advanced Placement Computer Science A </a>
+         </td><td valign="top">
+            <a href="/"> Projects in Computer Science I & II </a>
+        </td>
+        </table>
+    </center>        
+    </div>
+    
+    <div id="arts" class="popup_block">
+    <center>
+        <table>
+        <td valign="top">
+            <a href="/"> Acting I</a>
+            <a href="/"> Acting II</a>
+            <a href="/"> Media Studies I: Film </a>
+            <a href="/"> Media Studies II: Video Production</a>
+            <a href="/"> Theatre Production: New Works Festival </a>
+            <a href="/"> Chamber Ensemble </a>
+            <a href="/"> Concert Choir </a>
+             <a href="/"> Vocal Ensemble </a>
+            </td><td valign="top">
+            <a href="/"> Advanced Concert Choir </a>
+            <a href="/"> Jazz Band </a>
+            <a href="/"> Music Production </a>
+            <a href="/"> AP Music Theory </a>
+            <a href="/"> Orchestra </a>
+         
+            <a href="/"> Private Music Lessons </a>
+            <a href="/"> Small Instrument Ensembles </a>
+            </td><td valign="top">
+            <a href="/"> AP Art History </a>
+            <a href="/"> AP Studio Art </a>
+            <a href="/"> Art 2-D: Drawing and Painting </a>
+            <a href="/"> Digital Photography </a>
+            <a href="/"> Graphic Design </a>
+            <a href="/"> Pottery </a>
+            <a href="/"> Pottery Assistant </a>
+        </td>
+        </table>
+    </center>      
+    </div>
 
 </body>
