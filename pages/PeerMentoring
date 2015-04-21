@@ -1,0 +1,77 @@
+<head>
+<link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic|Raleway:400,300,500,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="/main.css" type="text/css" media="screen" />
+</head>
+
+<body>
+<div id="container">
+<div id="navigation">
+    <table width="100%"><tr valign="center">
+        <td><div class="title"><b>FORECASTING</b> &emsp; at hna</div></td>
+        
+        
+    <td><div style="float:right;text-align:right;">
+        <a href="/">Homepage</a> &emsp;
+        
+       <div class="dropdown">
+           <button>View Classes</button>
+           <ul class="dropdown-menu">
+               <li><a href="#" onclick="return false" style="border-top: 1px solid #eee;">Science</a></li>
+               <li><a href="#" onclick="return false" >Arts</a></li>
+               <li><a href="#" onclick="return false" >English</a></li>
+               <li><a href="#" onclick="return false" >Math</a></li>
+               <li><a href="#" onclick="return false" >Language</a></li>
+               <li><a href="#" onclick="return false" >History</a></li>
+               <li><a href="#" onclick="return false" >Other</a></li>
+           </ul>
+        </div> &emsp;
+        
+        <a href="/career">Favorites</a> &emsp;
+        <a href="/photos">Photo Gallery</a> &emsp;
+        <a href="/website">Contact Us</a> &emsp;
+    </div></td>
+    </tr></table>
+</div>
+</div>
+
+    <div id="header"> </div>
+
+    <div id="container">   
+    <div id="sidebar">
+        <div id="sidebarimage" style="background-image:url(http://placehold.it/300x250);"></div>
+        
+        <div class="quote"> “Peer mentoring is a great class not just because you get to hang out with Ms. Hawes or get birthday treats almost every month, but also because of the meaning behind the class. It provides students an opportunity to reach out to their underclassmen as well as to learn how to support their peers through the good and the bad times in their lives.” – Jackie Hirai ‘15  </div>
+        </div>
+    
+    <div id ="entries">
+    <div id="entry">
+
+        <div class="post">
+
+           <!-- <div class="featured">
+            <div class="crop" style="background-image:url(http://i.imgur.com/HhLA7Jq.gif);"></div>
+            </div> --> 
+
+            <div class="title">Peer Mentoring</div>
+            
+            
+            <blockquote>Credits: <br>2 semesters, 1 credit per semester <p></p>Prerequisites:<br> Application; signature of teacher. Open to 11th and 12th graders only. </blockquote>
+
+            <p> This course is designed to enhance the leadership, mentoring, and life skills of selected 11th and 12th
+graders. There are two components to this class: (1) Peer Mentors assist 9th graders with transitioning
+into high school by preparing and leading small group discussions approximately once a month; and (2)
+Peer Mentors receive instruction in leadership and life skills, which comprises the majority of class time.
+Topics include personalities, communication skills, group stages and dynamics, interpersonal
+relationships, bullying, mental health, suicide prevention, substance abuse, family dynamics, body image
+and eating disorders, healthy versus unhealthy relationships, physical and learning differences, and risk
+assessment. Methods of instruction include projects, reading and writing assignments, guest speakers,
+class discussion, and preparation of lesson plans for sessions with 9th graders. (from the course catalog)  </p>
+            
+            
+        
+        </div>
+    </div>
+    </div>
+    </div> 
+
+</body>
