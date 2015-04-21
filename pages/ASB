@@ -1,0 +1,72 @@
+<head>
+<link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic|Raleway:400,300,500,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="/main.css" type="text/css" media="screen" />
+</head>
+
+<body>
+<div id="container">
+<div id="navigation">
+    <table width="100%"><tr valign="center">
+        <td><div class="title"><b>FORECASTING</b> &emsp; at hna</div></td>
+        
+        
+    <td><div style="float:right;text-align:right;">
+        <a href="/">Homepage</a> &emsp;
+        
+       <div class="dropdown">
+           <button>View Classes</button>
+           <ul class="dropdown-menu">
+               <li><a href="#" onclick="return false" style="border-top: 1px solid #eee;">Science</a></li>
+               <li><a href="#" onclick="return false" >Arts</a></li>
+               <li><a href="#" onclick="return false" >English</a></li>
+               <li><a href="#" onclick="return false" >Math</a></li>
+               <li><a href="#" onclick="return false" >Language</a></li>
+               <li><a href="#" onclick="return false" >History</a></li>
+               <li><a href="#" onclick="return false" >Other</a></li>
+           </ul>
+        </div> &emsp;
+        
+        <a href="/career">Favorites</a> &emsp;
+        <a href="/photos">Photo Gallery</a> &emsp;
+        <a href="/website">Contact Us</a> &emsp;
+    </div></td>
+    </tr></table>
+</div>
+</div>
+
+    <div id="header"> </div>
+
+    <div id="container">   
+    <div id="sidebar">
+        <div id="sidebarimage" style="background-image:url(http://placehold.it/300x250);"></div>
+        
+        <div class="quote"> "I think what brings me to love ASB so much is the overall sense of worth and support I feel everyday from Ms. Dawson and the other officers.  I ran for the position mainly to become more involved, further myself in who I am, and to make an impact in the school community.  These all have occurred, but much more has too.  As ASB, we not only hold each other accountable and encourage growth in each others leadership qualities, but also have grown together as lifelong friends.  ASB has brought me to learn so much more of myself this year, and for that I am forever grateful. ASB is the best class ever known to women, and men too I guess :)." - Kelen Ahearn '15  </div>
+        </div>
+    
+    <div id ="entries">
+    <div id="entry">
+
+        <div class="post">
+
+           <!-- <div class="featured">
+            <div class="crop" style="background-image:url(http://i.imgur.com/HhLA7Jq.gif);"></div>
+            </div> --> 
+
+            <div class="title">Associated Student Body</div>
+            
+            
+            <blockquote>Credits: <br>2 semesters, 1 credit per semester <p></p>Prerequisites:<br> Application; approval of Vice Principal of Student Life; and election in late spring. </blockquote>
+
+            <p> Officers serve as four team members. The elected officers are responsible for many duties, including
+leading ASB meetings, assisting co-class presidents with the planning of class meetings, planning and
+publicizing school activities and dances, and representing the student body at required school functions.
+ASB leaders are expected to be exemplary role models of respectful behavior and positive attitude.  (from the course catalog) </p>  
+            
+            
+        
+        </div>
+    </div>
+    </div>
+    </div> 
+
+</body>
