@@ -1,0 +1,68 @@
+<head>
+<link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic|Raleway:400,300,500,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="main.css" type="text/css" media="screen" />
+</head>
+
+<body>
+<div id="container">
+<div id="navigation">
+    <table width="100%"><tr valign="center">
+        <td><div class="title"><b>FORECASTING</b> &emsp; at hna</div></td>
+        
+        
+    <td><div style="float:right;text-align:right;">
+        <a href="/">Homepage</a> &emsp;
+        
+       <div class="dropdown">
+           <button>View Classes</button>
+           <ul class="dropdown-menu">
+               <li><a href="/science.html" style="border-top: 1px solid #eee;">Science</a></li>
+               <li><a href="/arts.html">Arts</a></li>
+               <li><a href="/english.html">English</a></li>
+               <li><a href="/math.html">Math</a></li>
+               <li><a href="/language.html">Language</a></li>
+               <li><a href="/history.html">History</a></li>
+               <li><a href="/computerscience.html">Computer Science</a></li>
+               <li><a href="/leadership.html">Student Leadership</a></li>
+               <li><a href="/skills.html"> Life Skills</a></li>
+           </ul>
+        </div> &emsp;
+        
+        <a href="/career">Favorites</a> &emsp;
+        <a href="/photos">Photo Gallery</a> &emsp;
+        <a href="/website">Contact Us</a> &emsp;
+    </div></td>
+    </tr></table>
+</div>
+</div>
+
+    <div id="header"> </div>
+
+    <div id="container">   
+    <div id="sidebar">
+        <div id="sidebarimage" style="background-image:url(http://placehold.it/300x250);"></div>
+        
+        <div class="quote"> “The best preparation for college so far. It’s a very relaxing class, but the material is dense. You are responsible for getting your homework done, and making sure you understand the material. The class is very collaborative, and very inclusive. I’ve grown so much closer to my peers in this class, and I would highly recommend taking it. Plus, you eat doughnuts or other sweet treats on a regular basis!” – Summer Ott ‘15 </div>
+        </div>
+    
+    <div id ="entries">
+    <div id="entry">
+
+        <div class="post">
+
+           <!-- <div class="featured">
+            <div class="crop" style="background-image:url(http://i.imgur.com/HhLA7Jq.gif);"></div>
+            </div> --> 
+
+            <div class="title">Advanced Placement Calculus BC</div>
+            
+            <blockquote>Credits: <br>2 semesters, 1 credit per semester <p></p>Prerequisites:<br> Calculus AB; signature of current teacher.</blockquote>
+
+            <p> This independent study course is an intensive study of differential and integral calculus with a thorough coverage of the topics included on the Advanced Placement Calculus BC examination. It is designed to qualify the student for placement and credit one semester beyond that granted for Calculus AB and includes the additional topics of vector functions, series and sequences, and differential equations. All students who elect this course will be required to take the AP exam. (from the course catalog)
+           
+        </div>
+    </div>
+    </div>
+    </div> 
+
+</body>
